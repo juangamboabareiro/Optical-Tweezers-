@@ -18,7 +18,12 @@ En este proyecto se utiliza un kit de pinzas opticas para caracterizar las propi
 ## Datos
 
 
-![test](Latex_20.gif)
+<p align="center">
+  <img src="brownian_motion_20_percentage" width="700">
+  <br>
+  <em>Imagen de uno de los videos de movimiento borwniano para particulas de latex con una concentracion de 20% de glicerina</em>
+</p>
+
 
 
 Los datos utilizados provienen de mediciones experimentales sobre cada muestra. Se utilizo el software Tracker para obtener la trayectoria de un promedio de 10 particulas de latex por muestra. Para cada muestra se presentan 4 archivos de datos:

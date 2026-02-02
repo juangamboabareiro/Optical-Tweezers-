@@ -19,9 +19,9 @@ En este proyecto se utiliza un kit de pinzas opticas para caracterizar las propi
 
 
 <p align="center">
-  <img src="brownian_motion_20_percentage" width="700">
+  <img src="brownian_motion_20_percentage.png" width="500">
   <br>
-  <em>Imagen de uno de los videos de movimiento borwniano para particulas de latex con una concentracion de 20% de glicerina</em>
+  <em>Imagen de una muestra de particulas de latex con una concentracion de 20% de glicerina</em>
 </p>
 
 

@@ -17,7 +17,9 @@ En este proyecto se utiliza un kit de pinzas opticas para caracterizar las propi
 
 ## Datos
 
-![Demostración](./assets/Latex_20%.gif)
+
+![test](Latex_20.gif)
+
 
 Los datos utilizados provienen de mediciones experimentales sobre cada muestra. Se utilizo el software Tracker para obtener la trayectoria de un promedio de 10 particulas de latex por muestra. Para cada muestra se presentan 4 archivos de datos:
 
